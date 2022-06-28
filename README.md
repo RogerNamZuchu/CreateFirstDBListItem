@@ -49,7 +49,7 @@ server.listen(PORT, () => {
 });
 ```
 
-Sử dụng node app.js để chạy file
+Sử dụng **node app.js** để chạy file
 
 
 # Step5 : Sử dụng autosave ở File > AutoSave để tự động lưu file
