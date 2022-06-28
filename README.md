@@ -10,16 +10,27 @@ npm init
 ```
 
 # Step3 : 
+
 package name: (firstserver) firstserver
+
 version: (1.0.0) 1
+
 Invalid version: "1"
+
 version: (1.0.0) 1.0.0
+
 description: First Server
+
 entry point: (index.js) app.js
+
 test command: 
+
 git repository: https://github.com/RogerNamZuchu/CreateNodeJS.git
+
 keywords: First Server
+
 author: NamZuchu
+
 license: (ISC)  
 
 # Step4 : Cài đặt Express ở terminal để có công cụ nodejs ok
@@ -50,10 +61,13 @@ npm i nodemon
 
 # Step7 : Vô file package.json để config lại cách chạy. Tìm 
 <img width="466" alt="image" src="https://user-images.githubusercontent.com/108333173/176154081-bd4c200c-238e-4061-b004-94522483839f.png">
-rồi add vao 
+rồi add vào
+
+
 ```
 "start": "nodemon app.js",
 ```
+
 <img width="449" alt="image" src="https://user-images.githubusercontent.com/108333173/176154219-61553f90-91d0-4f36-bc28-f1d5b30cf068.png">
 
 Sau đó chạy lệnh npm start để run folder và thử xoá hết trong file app.js để thấy sự thay đổi
