@@ -50,7 +50,9 @@ server.listen(PORT, () => {
 ```
 
 Sử dụng
+
 **node app.js**
+
 để chạy file
 
 
@@ -73,5 +75,7 @@ rồi add vào
 <img width="449" alt="image" src="https://user-images.githubusercontent.com/108333173/176154219-61553f90-91d0-4f36-bc28-f1d5b30cf068.png">
 
 Sau đó chạy lệnh 
+
 **npm start** 
+
 để run folder và thử xoá hết trong file app.js để thấy sự thay đổi
