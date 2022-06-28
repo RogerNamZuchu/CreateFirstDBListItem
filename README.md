@@ -56,14 +56,14 @@ Sử dụng
 để chạy file
 
 
-# Step5 : Sử dụng autosave ở File > AutoSave để tự động lưu file
+# Step6 : Sử dụng autosave ở File > AutoSave để tự động lưu file
 
-# Step6 : Cài đặt Nodemon để sử dụng chức năng auto reload server nếu có thay đổi
+# Step7 : Cài đặt Nodemon để sử dụng chức năng auto reload server nếu có thay đổi
 ```
 npm i nodemon
 ```
 
-# Step7 : Vô file package.json để config lại cách chạy. Tìm 
+# Step8 : Vô file package.json để config lại cách chạy. Tìm 
 <img width="466" alt="image" src="https://user-images.githubusercontent.com/108333173/176154081-bd4c200c-238e-4061-b004-94522483839f.png">
 rồi add vào
 
