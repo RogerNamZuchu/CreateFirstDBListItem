@@ -41,13 +41,24 @@ npm install express
 
 # Step5 : Tạo file tên app.js giống như entry point rồi paste cấu hình này vô
 ```
-const app = require("express")();
-const server = require("http").createServer(app);
+// const app = require("express")();
+// const server = require("http").createServer(app);
 
-const PORT = process.env.PORT || 3000
-server.listen(PORT, () => {
-  console.log(`app lisntening at ${PORT}`);
-});
+// const PORT = process.env.PORT || 3000
+// server.listen(PORT, () => {
+//   console.log(`app lisntening at ${PORT}`);
+// });
+
+Thành phần cần chi tiết
+var express = require("express");
+var app = express();
+var https = require("https");
+var server = https.createServer(app);
+
+var PORT = process.env.PORT || 3000;
+server.listen(PORT, (res,req) => {
+    console.log(`listening at ${PORT}`);
+})
 ```
 
 Sử dụng
