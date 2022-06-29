@@ -2,6 +2,7 @@
 
 # Step1 : Download Node & Npm
 
+control c để thoát kết thúc 
 https://nodejs.org/en/download/
 
 # Step2 : Tạo Folder ở đâu đó rồi mở VsCode lên rồi open folder. Open internal terminal rồi Tạo NPM
