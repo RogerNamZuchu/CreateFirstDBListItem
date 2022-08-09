@@ -91,3 +91,14 @@ Sau đó chạy lệnh
 **npm start** 
 
 để run folder và thử xoá hết trong file app.js để thấy sự thay đổi
+
+# Step9 : Create MongoDB Server
+```
+Username: namstudynodejs
+Password: Rogervutru09071
+
+
+**MongoDB's native driver**
+```
+mongodb+srv://namstudynodejs:<password>@firstdblistitem.ovt30l9.mongodb.net/?retryWrites=true&w=majority
+```
