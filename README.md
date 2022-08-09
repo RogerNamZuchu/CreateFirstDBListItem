@@ -96,9 +96,10 @@ Sau đó chạy lệnh
 ```
 Username: namstudynodejs
 Password: Rogervutru09071
-
-
+```
 **MongoDB's native driver**
+
+
 ```
 mongodb+srv://namstudynodejs:<password>@firstdblistitem.ovt30l9.mongodb.net/?retryWrites=true&w=majority
 ```
